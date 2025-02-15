@@ -4,6 +4,7 @@ public class User {
     private int userId;
     private String password;
 
+
     public int getUserId() {
         return userId;
     }
