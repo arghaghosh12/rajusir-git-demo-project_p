@@ -1,0 +1,13 @@
+package com.example.DemoGit_P;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DemoGitPApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
